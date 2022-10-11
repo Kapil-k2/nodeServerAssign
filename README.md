@@ -6,6 +6,6 @@ This POC is to show that we can create our own server using Node without using a
 
 -Run node index.js
 
--Server will start 3000 port (http://localhost:3000/).
+-Server will start at 3000 port (http://localhost:3000/).
 
--Test it with different urls and you will get response accordingly. It will work perfect for (/ and /index.html).
+-Test it with different urls and you will get response accordingly. It will work perfect for / and /index.html.
